@@ -24,5 +24,7 @@ Tekst om Mulan (1998) i Fett
 
 
  <span class="highlightyellow">2021</span><br /><br />
+ 
+ <span style="color:blue">some *blue* text</span>.
 
 
