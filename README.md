@@ -1,4 +1,4 @@
-**Ellen Løvhaug Harrison** (f. <span style="color:#eaf043">1994</span>  ) er ein poet, skribent og tekstemmar.
+**Ellen Løvhaug Harrison** (f. <span style="color:#5ebef1">1994</span>  ) er ein poet, skribent og tekstemmar.
 
 +47 1234 56 78 / Ellen(a)epost.com   
 
