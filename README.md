@@ -3,7 +3,7 @@
 +47 1234 56 78 / Ellen(a)epost.com   
 
 ----
-2023 
+2023  
 Mai  
 <span style="color:blue">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
 
