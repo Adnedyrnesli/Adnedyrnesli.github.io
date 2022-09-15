@@ -9,7 +9,7 @@ Mai
 <span style="color:blue">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
 
 Februar  
-* <span style="color:blue">Søv når du søv</span> *, diktsamling, utgjeven på Samlaget  
+*<span style="color:blue">Søv når du søv</span>*, diktsamling, utgjeven på Samlaget  
   
   
 <span style="color:#5ebef1">2022</span>  
