@@ -4,7 +4,7 @@
 
 ----
 
-<span style="color:yellow">2023</span>  
+<span style="color:#5ebef1">2023</span>  
 *Mai*  
 Bachelor i Litteraturvitenskap, Universitetet i Bergen  
 
@@ -12,7 +12,7 @@ Bachelor i Litteraturvitenskap, Universitetet i Bergen
 Diktsamlinga "Søv når du søv" utgjeven på Samlaget  
   
   
-<span style="color:yellow">2022</span>  
+<span style="color:#5ebef1">2022</span>  
 *August*  
 Syn og Segn, dikt og presentasjon i spalta *Nye poetar*  
 
@@ -23,12 +23,12 @@ Artist in Residence, Berlin, Hardanger Kunstlag
 Fett, Tekst om giftig maskulinitet i *Mulan* (1998)  
    
    
-<span style="color:yellow">2021</span>  
+<span style="color:#5ebef1">2021</span>  
 *Juli*  
 Ferie  
   
   
-<span style="color:yellow">2020</span>   
+<span style="color:#5ebef1">2020</span>   
 *Mai*  
 Skrivekunstakademiet  
   
@@ -39,6 +39,6 @@ Ett og ett kronblad nå, antologi
 Litteratursymposiet i Odda, opplesing
   
   
-<span style="color:yellow">2019</span>  
+<span style="color:#5ebef1">2019</span>  
 *Mai - juni*  
 Artist in Residence, Berlin, Hardanger Kunstlag
