@@ -1,4 +1,4 @@
-**Ellen Løvhaug Harrison** (f. <span style="color:#5ebef1">1994</span>  ) er ein poet, skribent og tekstemmar.
+**Ellen Løvhaug Harrison** (f. 1994) er ein poet, skribent og tekstemmar.
 
 +47 1234 56 78 / Ellen(a)epost.com   
 
@@ -9,17 +9,18 @@ Mai
 <span style="color:blue">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
 
 Februar  
-*<span style="color:blue">Søv når du søv</span>*, diktsamling, utgjeven på Samlaget  
+*<span style="color:blue">Søv når du søv</span>*, diktsamling, Samlaget  
   
   
-<span style="color:#5ebef1">2022</span>  
-*August*  
-Syn og Segn, dikt og presentasjon i spalta *Nye poetar*  
+2022  
+  
+August  
+<span style="color:blue">Syn og segn</span>, dikt og presentasjon i spalta *Nye poetar*  
 
-*Mai - juni*  
-Artist in Residence, Berlin, Hardanger Kunstlag
+Mai - juni  
+<span style="color:blue">Artist in Residence</span>, Berlin, Hardanger Kunstlag
   
-*April*  
+April  
 Fett, Tekst om giftig maskulinitet i *Mulan* (1998)  
    
    
