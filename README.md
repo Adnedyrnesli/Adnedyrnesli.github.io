@@ -25,3 +25,6 @@ Mai         Skrivekunstakademiet
 April       Ett og ett kronblad nå, antologi  
   
 Februar     Litteratursymposiet i Odda, opplesing
+
+<span style="color:blue">2019</span> 
+Mai - juni  Artist in Residence, Berlin, Hardanger Kunstlag
