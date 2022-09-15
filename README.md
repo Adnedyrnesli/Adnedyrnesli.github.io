@@ -39,6 +39,6 @@ Ett og ett kronblad nå, antologi
 Litteratursymposiet i Odda, opplesing
   
   
-<span style="color:#5ebef1">2019</span>  
+<span style="color:#DAF7A6">2019</span>  
 *Mai - juni*  
 Artist in Residence, Berlin, Hardanger Kunstlag
