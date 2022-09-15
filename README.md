@@ -3,10 +3,9 @@
 +47 1234 56 78 / Ellen(a)epost.com   
 
 ----
-
-<span style="color:#5ebef1">2023</span>  
-*Mai*  
-Bachelor i Litteraturvitenskap, Universitetet i Bergen  
+2023 
+Mai  
+<span style="color:blue">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
 
 *Februar*  
 Diktsamlinga "Søv når du søv" utgjeven på Samlaget  
