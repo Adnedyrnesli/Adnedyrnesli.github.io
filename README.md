@@ -3,7 +3,7 @@
 +47 1234 56 78 / Ellen(a)epost.com   
 
 ----
-2023 
+__2023__ 
   
 Mai  
 <span style="color:blue">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
@@ -12,7 +12,7 @@ Februar
 *<span style="color:blue">Søv når du søv</span>*, diktsamling, Samlaget  
   
   
-2022  
+__2022__  
   
 August  
 <span style="color:blue">Syn og segn</span>, dikt og presentasjon i spalta *Nye poetar*  
@@ -24,8 +24,9 @@ April
 Fett, Tekst om giftig maskulinitet i *Mulan* (1998)  
    
    
-<span style="color:#5ebef1">2021</span>  
-*Juli*  
+**2021**
+  
+Juli  
 Ferie  
   
   
