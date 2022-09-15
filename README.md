@@ -4,7 +4,8 @@
 Ellen@epost.com
 
 
-## 2023
+
+<span style="color:blue">2023</span>
 
 Mai
 Bachelor i Litteraturvitenskap, Universitetet i Bergen
@@ -12,7 +13,7 @@ Bachelor i Litteraturvitenskap, Universitetet i Bergen
 Februar
 Diktsamlinga "Søv når du søv" utgjeven på Samlaget
 
-## 2022
+<span style="color:blue">2022</span>
 
 August
 Dikt i Syn og Segn
@@ -20,11 +21,6 @@ Dikt i Syn og Segn
 April
 Tekst om Mulan (1998) i Fett
 
-## 2021
-
-
- <span class="highlightyellow">2021</span><br /><br />
- 
- <span style="color:blue">some *blue* text</span>.
+<span style="color:blue">2021</span>
 
 
