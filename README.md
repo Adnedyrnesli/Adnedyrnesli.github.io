@@ -5,10 +5,10 @@
 ----
 
 <span style="color:blue">2023</span>  
-*Mai  *
+*Mai*  
 Bachelor i Litteraturvitenskap, Universitetet i Bergen  
 
-*Februar  *
+*Februar*  
 Diktsamlinga "Søv når du søv" utgjeven på Samlaget  
 
 <span style="color:blue">2022</span>  
