@@ -10,7 +10,7 @@ _Søv når du søv_, diktsamling på Samlaget
 ### 2022
    
 September   
-_Presentert i spalta *Under arbeid*_ i Syn og Segn  
+_Presentert i spalta Under arbeid_ i Syn og Segn  
    
 Februar   
 _Tekst om Mulan (1998)_ i Fett  
