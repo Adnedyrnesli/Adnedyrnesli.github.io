@@ -1,4 +1,6 @@
-## CV
+## Ellen Løvhaug Harrison
+
+_Ellen Løvhaug Harrison (f. 1994) er ein poet og skribent som bur i Bergen._
 
 ### 2023
 
