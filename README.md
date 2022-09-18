@@ -18,7 +18,7 @@ __Presentert i spalta *Under arbeid*__
 Syn og Segn  
   
 Januar  
-__Tekst om giftig maskulinitet i _Mulan_(1998)__  
+__Tekst om giftig maskulinitet i Disneyfilmen _Mulan_(1998)__  
 Fett  
 
 ### 2021
@@ -29,9 +29,3 @@ Fett
 Mai  
 __Årsstudium i skapande skriving__  
 Skrivekunstakademiet i Hordaland  
-
-### 2019  
-  
-Oktober  
-__Opplesing av dikt__  
-Litteratursymposiet i Odda
