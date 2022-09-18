@@ -24,13 +24,13 @@ _Årsstudium i skapande skriving_, Skrivekunstakademiet i Hordaland
 
 ### 2019
 
-Mai
+Mai  
 _Novella "---"_ i Skrivekunstakademiet sin antologi “Ett og ett kronblad nå”
 
-Februar - mai
+Februar - mai  
 _Trykk- og sesignansvarleg_ for Skrivekunstakademiet sin antologi
 
-Mai - juni
+Mai - juni  
 _Opphald i Hardanger kunstlag si leilegheit i Berlin_
   
   
