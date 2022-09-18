@@ -14,7 +14,7 @@ Samlaget
 ### 2022
 
 August  
-__Presentert i spalta *Under arbeid*__ 
+__Presentert i spalta *Under arbeid*__  
 Syn og Segn  
   
 Januar  
