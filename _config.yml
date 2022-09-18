@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 text-col: "#000000"
 title: Ellen Løvhaug Harrison
-description: Ellen Løvhaug Harrison (f. 1994) er ein poet og skribent som bur i Bergen. 
-description: ellen@epost.com  
-description: +4799399465
+description: Ellen Løvhaug Harrison (f. 1994) er ein poet og skribent som bur i Bergen.  
+social-network-links:
+  email: "someone@example.com"
