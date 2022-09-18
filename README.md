@@ -20,3 +20,27 @@ _Tekst om Mulan (1998)_ i Fett
   
 Mai  
 _Årsstudium i skapande skriving_, Skrivekunstakademiet i Hordaland  
+
+
+### 2019
+
+Mai
+_Novella "---"_ i Skrivekunstakademiet sin antologi “Ett og ett kronblad nå”
+
+Februar - mai
+_Trykk- og sesignansvarleg_ for Skrivekunstakademiet sin antologi
+
+Mai - juni
+_Opphald i Hardanger kunstlag si leilegheit i Berlin_
+
+## Frivilleg arbeid
+
+2020 - 2021
+Tidsskriftet Fett
+_Ansvarleg for tekst og redaksjonelt arbeid_, Bergensredaksjonen  
+
+2018 - 2022
+Vossajazz, Presseavdelinga
+
+2016
+Bygdalarm
