@@ -33,5 +33,5 @@ Skrivekunstakademiet i Hordaland
 ### 2019  
   
 Oktober  
-__Opplesing av dikt__
+__Opplesing av dikt__  
 Litteratursymposiet i Odda
