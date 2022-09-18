@@ -13,7 +13,7 @@ August
 _Presentert i spalta *Under arbeid*_ i Syn og Segn  
   
 Januar  
-_Tekst om giftig maskulinitet i Disneyfilmen _Mulan_(1998)_ i Fett  
+_Tekst om *Mulan* (1998)_ i Fett  
 
 ### 2021
 
