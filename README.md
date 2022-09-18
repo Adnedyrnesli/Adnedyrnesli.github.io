@@ -3,7 +3,7 @@
 ### 2023
 
 Mai  
-<p style="color: #85c1e9 ;">Bachelor i litteraturvitskap</p>
+<p style="color: #85c1e9 ;">Bachelor i litteraturvitskap</p>  
 Universitetet i Bergen 
 
 Februar  
