@@ -35,12 +35,12 @@ _Opphald i Hardanger kunstlag si leilegheit i Berlin_
 
 ## Frivilleg arbeid
 
-2020 - 2021
-Tidsskriftet Fett
+2020 - 2021  
+Tidsskriftet Fett  
 _Ansvarleg for tekst og redaksjonelt arbeid_, Bergensredaksjonen  
 
-2018 - 2022
-Vossajazz, Presseavdelinga
+2018 - 2022  
+Vossajazz, Presseavdelinga  
 
-2016
-Bygdalarm
+2016  
+Bygdalarm  
