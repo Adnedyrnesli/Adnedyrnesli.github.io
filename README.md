@@ -3,22 +3,22 @@
 ### 2023
 
 Mai  
-<p style="color: #85c1e9 ;">Bachelor i litteraturvitskap</p>  
+_Bachelor i litteraturvitskap_
 Universitetet i Bergen  
   
 Februar  
-__*Søv når du søv*__
+_Søv når du søv_
 diktsamling på Samlaget  
 
 
 ### 2022
 
 August  
-__Presentert i spalta *Under arbeid*__  
+_Presentert i spalta *Under arbeid*_  
 Syn og Segn  
   
 Januar  
-__Tekst om giftig maskulinitet i Disneyfilmen _Mulan_(1998)__  
+_Tekst om giftig maskulinitet i Disneyfilmen _Mulan_(1998)_  
 Fett  
 
 ### 2021
@@ -27,5 +27,5 @@ Fett
 ### 2020
 
 Mai  
-__Årsstudium i skapande skriving__  
+_Årsstudium i skapande skriving_  
 Skrivekunstakademiet i Hordaland  
