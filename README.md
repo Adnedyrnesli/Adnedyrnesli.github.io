@@ -32,8 +32,9 @@ _Trykk- og sesignansvarleg_ for Skrivekunstakademiet sin antologi
 
 Mai - juni
 _Opphald i Hardanger kunstlag si leilegheit i Berlin_
-
-## Frivilleg arbeid
+  
+  
+###Frivilleg arbeid
 
 2020 - 2021  
 Tidsskriftet Fett  
