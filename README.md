@@ -2,18 +2,18 @@
 
 ### 2023
 
-Mai
+Mai  
 _Bachelor i litteraturvitskap_  
 Universitetet i Bergen 
 
-Februar
+Februar  
 _Utitulert diktsamling_  
 Samlaget
 
 
 ### 2022
 
-August
+August  
 Presentert i spalta _Under arbeid_  
 Syn og Segn  
   
