@@ -4,8 +4,8 @@
 
 Mai  
 <p style="color: #85c1e9 ;">Bachelor i litteraturvitskap</p>  
-Universitetet i Bergen 
-
+Universitetet i Bergen  
+  
 Februar  
 __*Søv når du søv*__
 diktsamling på Samlaget  
