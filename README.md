@@ -45,3 +45,27 @@ Vossajazz, Presseavdelinga
 
 2016  
 Bygdalarm  
+  
+### Test
+
+2020 - 2021  
+Tidsskriftet Fett  
+_Ansvarleg for tekst og redaksjonelt arbeid_, Bergensredaksjonen  
+
+2018 - 2022  
+Vossajazz, Presseavdelinga  
+
+2016  
+Bygdalarm  
+  
+### Test 2
+
+2020 - 2021  
+Tidsskriftet Fett  
+_Ansvarleg for tekst og redaksjonelt arbeid_, Bergensredaksjonen  
+
+2018 - 2022  
+Vossajazz, Presseavdelinga  
+
+2016  
+Bygdalarm  
