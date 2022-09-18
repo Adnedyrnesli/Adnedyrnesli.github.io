@@ -3,10 +3,10 @@
 ### 2023
 
 Mai  
-Bachelor i litteraturvitskap, ved Universitetet i Bergen 
+__Bachelor i litteraturvitskap__, ved Universitetet i Bergen 
 
 Februar  
-*Utitulert*, diktsamling på Samlaget
+__*Utitulert*__, diktsamling på Samlaget
 
 
 ### 2022
@@ -18,3 +18,14 @@ Januar
 Tekst om giftig maskulinitet i _Mulan_(1998), Fett  
 
 ### 2021
+
+
+### 2020
+
+Mai
+Årsstudium i skapande skriving, ved __Skrivekunstakademiet i Hordaland__ 
+
+### 2019  
+  
+Oktober  
+Opplesing under __Litteratursymposiet i Odda__
