@@ -3,21 +3,22 @@
 ### 2023
 
 Mai  
-_Bachelor i litteraturvitskap_  
+__Bachelor i litteraturvitskap___  
 Universitetet i Bergen 
 
 Februar  
-_Utitulert diktsamling_  
+__*Utitulert diktsamling*__  
 Samlaget
 
 
 ### 2022
 
 August  
-Presentert i spalta _Under arbeid_  
+__Presentert i spalta *Under arbeid*__ 
 Syn og Segn  
   
 Januar  
-Tekst om giftig maskulinitet i _Mulan_(1998)  
+__Tekst om giftig maskulinitet i _Mulan_(1998)__  
+Fett  
 
 ### 2021
