@@ -1,8 +1,4 @@
-## Ellen Løvhaug Harrison
-
-_Ellen Løvhaug Harrison (f. 1994) er ein poet og skribent som bur i Bergen._
-
-Ellen@epost.com / +47 452 454 23
+## CV
 
 ### 2023
 
