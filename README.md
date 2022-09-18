@@ -2,7 +2,7 @@
 
 ### 2023
 
-Mai
+Mai  
 __Bachelor i litteraturvitskap__, ved Universitetet i Bergen 
 
 Februar  
