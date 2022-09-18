@@ -3,25 +3,25 @@
 +47 1234 56 78 / Ellen(a)epost.com   
 
 ----
-__2023__ 
+<span class="highlightyellow">2023</span>
   
 Mai  
-<span style="color:5ebef1">Bachelor i Litteraturvitenskap</span>, Universitetet i Bergen  
+_Bachelor i Litteraturvitenskap_, Universitetet i Bergen  
 
 Februar  
-*<span style="color:5ebef1">Søv når du søv</span>*, diktsamling, Samlaget  
+_Søv når du søv_, diktsamling, Samlaget  
   
   
 __2022__  
   
 August  
-<span style="color:5ebef1">Syn og segn</span>, dikt og presentasjon i spalta *Nye poetar*  
+<span style="color:#5ebef1">Syn og segn</span>, dikt og presentasjon i spalta *Nye poetar*  
 
 Mai - juni  
-<span style="color:5ebef1">Artist in Residence</span>, Berlin, Hardanger Kunstlag
+<span style="color:#5ebef1">Artist in Residence</span>, Berlin, Hardanger Kunstlag
   
 April  
-Fett, Tekst om giftig maskulinitet i *Mulan* (1998)  
+<span style="color:#5ebef1">Fett</span>, Tekst om giftig maskulinitet i *Mulan* (1998)  
    
    
 __2021__
