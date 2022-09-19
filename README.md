@@ -5,6 +5,8 @@ Kanskje eit bilete her?
 Her kan de vera __nyhende__ om kva du gjer og skal gjera!   
 [Med link](www.samlaget.no)  
 
+## cv  
+
 ### 2023
   
 Mai  
