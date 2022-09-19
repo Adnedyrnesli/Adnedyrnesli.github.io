@@ -1,3 +1,9 @@
+## Søv når du søv
+Samlaget
+
+Debutdiktsamlinga mi _Søv når du søv_ er komen ut på Samlaget!
+[Kjøp den her](www.samlaget.no)
+
 ### 2023
   
 Mai  
@@ -35,3 +41,5 @@ _Trykk- og sesignansvarleg_ for Skrivekunstakademiet sin antologi
 
 Mai - juni  
 _Opphald i Hardanger kunstlag si leilegheit i Berlin_
+
+
