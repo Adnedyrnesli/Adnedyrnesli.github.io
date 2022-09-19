@@ -1,7 +1,4 @@
-## Søv når du søv
-Samlaget
-
-Debutdiktsamlinga mi _Søv når du søv_ er komen ut på Samlaget!
+_Debutdiktsamlinga mi __Søv når du søv__ er komen ut på Samlaget!_
 [Kjøp den her](www.samlaget.no)
 
 ### 2023
