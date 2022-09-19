@@ -1,5 +1,9 @@
-_Debutdiktsamlinga mi __Søv når du søv__ er komen ut på Samlaget!_  
-[Kjøp den her](www.samlaget.no)  
+### Nyhende!
+
+Kanskje eit bilete her?  
+  
+Her kan de vera __nyhende__ om kva du gjer og skal gjera!   
+[Med link](www.samlaget.no)  
 
 ### 2023
   
